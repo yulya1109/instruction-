@@ -17,10 +17,10 @@ git log - Просмотр изменений (веток)
 git log --oneline - Просмотр веток в сокращенном варианте
 ```
 ```sh
-git checkout
+git checkout - Переход на ветку (просмотр того, момента, на который перешли)
 ```
 ```sh
-git checkout master
+git checkout master - Возвращение на текущую ветку
 ```
 ```sh
 git diff 11 22
