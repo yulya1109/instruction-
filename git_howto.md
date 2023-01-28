@@ -91,4 +91,4 @@ _Тоже курсив_
 
 
 # Добавим как добавлять картинки в MarkDown
-[Это Pantone 2023](Pantone2023.jpg)
+[Это Pantone Colour 2023](Pantone2023.jpg)
