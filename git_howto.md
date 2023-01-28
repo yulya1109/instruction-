@@ -87,6 +87,12 @@ _Тоже курсив_
 
 1. Пункт 3
 
+- Пункт 1
+
+        - Подпункт A
+
+                - Подподпункт a
+
 Для более полного перечня перейди по [ссылке](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html "Шпаргалка по синтаксису разметки Markdown")
 
 
