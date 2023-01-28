@@ -95,6 +95,7 @@ _Тоже курсив_
 
 Для более полного перечня перейди по [ссылке](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html "Шпаргалка по синтаксису разметки Markdown")
 
+[Еще одна ссылка](https://gb.ru)
 
 # Добавим как добавлять картинки в MarkDown
 [Это Pantone Colour 2023](Pantone2023.jpg)
