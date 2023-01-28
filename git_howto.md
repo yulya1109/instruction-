@@ -11,7 +11,7 @@ git add - Добавление изменений из рабочей облас
 git commit -m "Message" - Запись изменений в репозиторий
 ```
 ```sh
-git log
+git log - Просмотр изменений (веток)
 ```
 ```sh
 git log --oneline
