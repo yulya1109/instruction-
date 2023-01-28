@@ -8,7 +8,7 @@ git init - Создание нового репозитория (идет пер
 git add - Добавление изменений из рабочей области
 ```
 ```sh
-git commit -m "Message"
+git commit -m "Message" - Запись изменений в репозиторий
 ```
 ```sh
 git log
