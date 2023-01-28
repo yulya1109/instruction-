@@ -23,7 +23,7 @@ git checkout - Переход на ветку (просмотр того, мом
 git checkout master - Возвращение на текущую ветку
 ```
 ```sh
-git diff 11 22
+git diff 11 22 - Просмотр, что именно измененилось между ветками
 ```
 ```sh
 git restore filename
