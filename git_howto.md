@@ -78,3 +78,6 @@ _Тоже курсив_
 1. Пункт 3
 
 Для более полного перечня перейди по [ссылке](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html "Шпаргалка по синтаксису разметки Markdown")
+
+
+# Добавим как добавлять картинки в MarkDown
